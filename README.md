@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Huntisonn
+- 👋 Hi
 - 👀 I’m interested in something I am trying to figure out myself.
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on anything.
