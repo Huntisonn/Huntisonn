@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me dm
-- 😄 Pronouns: mist
 - ⚡ Fun fact: I know you.
 
 <!---
