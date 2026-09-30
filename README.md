@@ -1,8 +1,8 @@
 - Hi
--  I’m interested in something I am trying to figure out myself.
+-  I’m interested in software devlopment.
 -  I’m currently learning to code.
 -  I’m looking to collaborate on anything.
--  How to reach me dm
+-  How to reach iftekhram729@gmail.com
   
 
 <!---
